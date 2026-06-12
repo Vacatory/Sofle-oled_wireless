@@ -112,4 +112,19 @@
             >;
         };
     };
+layer_4 {
+            status = "reserved";
+        };
+
+layer_5 {
+            status = "reserved";
+        };
+
+layer_6 {
+            status = "reserved";
+        };
+
+layer_7 {
+            status = "reserved";
+        };
 };
